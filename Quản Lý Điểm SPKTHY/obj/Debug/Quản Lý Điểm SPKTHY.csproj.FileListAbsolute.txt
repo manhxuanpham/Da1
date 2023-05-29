@@ -1,0 +1,33 @@
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Quản Lý Điểm SPKTHY.exe.config
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Quản Lý Điểm SPKTHY.exe
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Quản Lý Điểm SPKTHY.pdb
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản Lý Điểm SPKTHY.csproj.AssemblyReference.cache
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản Lý Điểm SPKTHY.csproj.SuggestedBindingRedirects.cache
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.Properties.Resources.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản Lý Điểm SPKTHY.csproj.GenerateResource.cache
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản Lý Điểm SPKTHY.csproj.CoreCompileInputs.cache
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản Lý Điểm SPKTHY.csproj.CopyComplete
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản Lý Điểm SPKTHY.exe
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản Lý Điểm SPKTHY.pdb
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\DevComponents.Instrumentation.xml
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản Lý Điểm SPKTHY.exe.licenses
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\DevComponents.TreeGX.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản Lý Điểm SPKTHY.exe.config
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_ChucNang.resources

@@ -1,0 +1,6 @@
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\DTO\bin\Debug\DTO.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\DTO\bin\Debug\DTO.pdb
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\DTO\obj\Debug\DTO.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,1176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>119, 44</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 16</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <data name="dtgvDSSV.ColumnHeadersHeight" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="dtgvDSSV.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Bottom</value>
+  </data>
+  <data name="dtgvDSSV.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 409</value>
+  </data>
+  <data name="dtgvDSSV.RowHeadersWidth" type="System.Int32, mscorlib">
+    <value>51</value>
+  </data>
+  <data name="dtgvDSSV.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1084, 333</value>
+  </data>
+  <data name="dtgvDSSV.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="&gt;&gt;dtgvDSSV.Name" xml:space="preserve">
+    <value>dtgvDSSV</value>
+  </data>
+  <data name="&gt;&gt;dtgvDSSV.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuDataGridView, Bunifu.UI.WinForms.BunifuDataGridView, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;dtgvDSSV.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;dtgvDSSV.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="txtHoTen.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAMgAAAApCAYAAABwQGa5AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAJtSURBVHhe7d2/ihpRFIDxKS1TptxyHyFlypQpt9wmb5Ei
+        DxAI7GsE0i2kWnUcHQtxEdHGf1iITERmxRhRkbvn6AkiKzeYbp3vB7eQGa3ux8xVvBMA+E/5fD4n46Zc
+        Lt/LeCyVSpNCoeAYjNc6dA7rXJbxIHP7VsYbm+7nkTd+kA+bNpvNWZIkLk1Tt1wuHfCa6RzWuTyZTFy7
+        3Z5HUZSGYfjJpv2/aVFS1496vZ6uViv7WOAybTYb12q1nmTOxzL331oGp1kcw9FotLb3A5kwnU5dHMdD
+        aeDKcnhJrxzEgazSWy9p4NFyOKZrDr2tsnOBTOp0Or9l7f3FstiTOHK6IGfNgazbbreuWq1OpYlry2MX
+        yK2u6O0cINMGg8EmiqJvlsdu7fGgX3sBcG4+nzsJpG95BIHcXo0Wi4UdBrJNb7OKxeLG8ggCefFHvw8G
+        sKe/ulseQaAvABwQCOBBIIAHgQAeBAJ4EAjgQSCAB4EAHgQCeBAI4EEggAeBAB4EAngQCOBBIIAHgQAe
+        BAJ4HAWify/UvxkC2DsKRDf0Zd9d4OAoEN2XVLdeBOCcbmCiG5lYHrtbrM/dbpdLCCDG47Fu+/Pd8tht
+        HHdVqVRS1iGAc41G40ma+Gh57EkxX3u9HrsrItPk6rGWi8VPy+JA9+eVA83ZbGanAtmie1PLevyXtHD6
+        qVNy4DqO4wm7LCJrNI5araabVr+3HE6TE95JRcN+v8+iHZmQJMnarhz+OP6SE3PyhjspKtUVPY9FwKXR
+        rXb12Zv6DE5ZWhRlzp//ME8tSr/uCsNwpj+cMBiXMnQ/arkI3Mscv7HpDuA8QfAMbJGZio8i47UAAAAA
+        SUVORK5CYII=
+</value>
+  </data>
+  <data name="txtHoTen.Location" type="System.Drawing.Point, System.Drawing">
+    <value>490, 120</value>
+  </data>
+  <data name="txtHoTen.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="txtHoTen.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>1, 1</value>
+  </data>
+  <data name="txtHoTen.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="txtHoTen.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 41</value>
+  </data>
+  <data name="txtHoTen.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;txtHoTen.Name" xml:space="preserve">
+    <value>txtHoTen</value>
+  </data>
+  <data name="&gt;&gt;txtHoTen.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuTextBox, Bunifu.UI.WinForms.BunifuTextBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;txtHoTen.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtHoTen.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="txtMaSV.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAMgAAAApCAYAAABwQGa5AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAJtSURBVHhe7d2/ihpRFIDxKS1TptxyHyFlypQpt9wmb5Ei
+        DxAI7GsE0i2kWnUcHQtxEdHGf1iITERmxRhRkbvn6AkiKzeYbp3vB7eQGa3ux8xVvBMA+E/5fD4n46Zc
+        Lt/LeCyVSpNCoeAYjNc6dA7rXJbxIHP7VsYbm+7nkTd+kA+bNpvNWZIkLk1Tt1wuHfCa6RzWuTyZTFy7
+        3Z5HUZSGYfjJpv2/aVFS1496vZ6uViv7WOAybTYb12q1nmTOxzL331oGp1kcw9FotLb3A5kwnU5dHMdD
+        aeDKcnhJrxzEgazSWy9p4NFyOKZrDr2tsnOBTOp0Or9l7f3FstiTOHK6IGfNgazbbreuWq1OpYlry2MX
+        yK2u6O0cINMGg8EmiqJvlsdu7fGgX3sBcG4+nzsJpG95BIHcXo0Wi4UdBrJNb7OKxeLG8ggCefFHvw8G
+        sKe/ulseQaAvABwQCOBBIIAHgQAeBAJ4EAjgQSCAB4EAHgQCeBAI4EEggAeBAB4EAngQCOBBIIAHgQAe
+        BAJ4HAWify/UvxkC2DsKRDf0Zd9d4OAoEN2XVLdeBOCcbmCiG5lYHrtbrM/dbpdLCCDG47Fu+/Pd8tht
+        HHdVqVRS1iGAc41G40ma+Gh57EkxX3u9HrsrItPk6rGWi8VPy+JA9+eVA83ZbGanAtmie1PLevyXtHD6
+        qVNy4DqO4wm7LCJrNI5araabVr+3HE6TE95JRcN+v8+iHZmQJMnarhz+OP6SE3PyhjspKtUVPY9FwKXR
+        rXb12Zv6DE5ZWhRlzp//ME8tSr/uCsNwpj+cMBiXMnQ/arkI3Mscv7HpDuA8QfAMbJGZio8i47UAAAAA
+        SUVORK5CYII=
+</value>
+  </data>
+  <data name="txtMaSV.Location" type="System.Drawing.Point, System.Drawing">
+    <value>122, 44</value>
+  </data>
+  <data name="txtMaSV.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>1, 1</value>
+  </data>
+  <data name="txtMaSV.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="txtMaSV.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 41</value>
+  </data>
+  <data name="txtMaSV.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;txtMaSV.Name" xml:space="preserve">
+    <value>txtMaSV</value>
+  </data>
+  <data name="&gt;&gt;txtMaSV.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuTextBox, Bunifu.UI.WinForms.BunifuTextBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;txtMaSV.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtMaSV.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="txtDiaChi.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAMgAAAApCAYAAABwQGa5AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAJtSURBVHhe7d2/ihpRFIDxKS1TptxyHyFlypQpt9wmb5Ei
+        DxAI7GsE0i2kWnUcHQtxEdHGf1iITERmxRhRkbvn6AkiKzeYbp3vB7eQGa3ux8xVvBMA+E/5fD4n46Zc
+        Lt/LeCyVSpNCoeAYjNc6dA7rXJbxIHP7VsYbm+7nkTd+kA+bNpvNWZIkLk1Tt1wuHfCa6RzWuTyZTFy7
+        3Z5HUZSGYfjJpv2/aVFS1496vZ6uViv7WOAybTYb12q1nmTOxzL331oGp1kcw9FotLb3A5kwnU5dHMdD
+        aeDKcnhJrxzEgazSWy9p4NFyOKZrDr2tsnOBTOp0Or9l7f3FstiTOHK6IGfNgazbbreuWq1OpYlry2MX
+        yK2u6O0cINMGg8EmiqJvlsdu7fGgX3sBcG4+nzsJpG95BIHcXo0Wi4UdBrJNb7OKxeLG8ggCefFHvw8G
+        sKe/ulseQaAvABwQCOBBIIAHgQAeBAJ4EAjgQSCAB4EAHgQCeBAI4EEggAeBAB4EAngQCOBBIIAHgQAe
+        BAJ4HAWify/UvxkC2DsKRDf0Zd9d4OAoEN2XVLdeBOCcbmCiG5lYHrtbrM/dbpdLCCDG47Fu+/Pd8tht
+        HHdVqVRS1iGAc41G40ma+Gh57EkxX3u9HrsrItPk6rGWi8VPy+JA9+eVA83ZbGanAtmie1PLevyXtHD6
+        qVNy4DqO4wm7LCJrNI5araabVr+3HE6TE95JRcN+v8+iHZmQJMnarhz+OP6SE3PyhjspKtUVPY9FwKXR
+        rXb12Zv6DE5ZWhRlzp//ME8tSr/uCsNwpj+cMBiXMnQ/arkI3Mscv7HpDuA8QfAMbJGZio8i47UAAAAA
+        SUVORK5CYII=
+</value>
+  </data>
+  <data name="txtDiaChi.Location" type="System.Drawing.Point, System.Drawing">
+    <value>490, 189</value>
+  </data>
+  <data name="txtDiaChi.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="txtDiaChi.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>1, 1</value>
+  </data>
+  <data name="txtDiaChi.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="txtDiaChi.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 41</value>
+  </data>
+  <data name="txtDiaChi.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;txtDiaChi.Name" xml:space="preserve">
+    <value>txtDiaChi</value>
+  </data>
+  <data name="&gt;&gt;txtDiaChi.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuTextBox, Bunifu.UI.WinForms.BunifuTextBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;txtDiaChi.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtDiaChi.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="txtNoiSinh.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAMgAAAAoCAYAAAC7HLUcAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAJqSURBVHhe7d2/ihpRFMfxKS1TptxyHyFlypQpt9wmb5Ei
+        DxAI7GsE0i2kWnUcHQtxEdHGf1iITERmxRhRkbvn6AkiKzeYbp3vB24hM2N1ftw5I54JAPynfD6fk3VT
+        LpfvZT2WSqVJoVBwLNZrXVrDWsuyHqS2b2W9sXI/j1z4Qb5s2mw2Z0mSuDRN3XK5dMBrpjWstTyZTFy7
+        3Z5HUZSGYfjJyv7fNFGSrh/1ej1drVb2tcBl2mw2rtVqPUnNx1L7by0Gp1k4hqPRaG3XA5kwnU5dHMdD
+        ycCVxeEl3TkIB7JKb70kA48Wh2Pac+htlZ0LZFKn0/ktvfcXi8WehCOnDTk9B7Juu926arU6lUxcWzx2
+        AbnVjt7OATJtMBhsoij6ZvHY9R4P+tgLgHPz+dxJQPoWjyCQ26vRYrGww0C26W1WsVjcWDyCQD780efB
+        APb0V3eLRxDoBwAHBATwICCABwEBPAgI4EFAAA8CAngQEMCDgAAeBATwICCABwEBPAgI4EFAAA8CAngQ
+        EMDjKCD67yn9FxWAvaOA6LxSxooCB0cB0bGLOlkOgHM6n0HnNFg8drdYn7vdLlsIIMbjsU41+W7x2M3F
+        uqpUKil9COBco9F4kkx8tHjsSWK+9no9hsch02T3WMtm8dNicaDjR+VAczab2alAtujoXenHf0kWTr9U
+        Rw5cx3E8YYgcskbDUavVdCbve4vDaXLCO0nRsN/v07QjE5IkWdvO4Q/HX3JiTi64k0Sl2tEz9R2XRieJ
+        6qsF9RWD0loUpebPf1ehJkofd4VhONMfTlisS1k6blc2gXup8RsrdwDnCYJnI1mF7yOzSykAAAAASUVO
+        RK5CYII=
+</value>
+  </data>
+  <data name="txtNoiSinh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>858, 188</value>
+  </data>
+  <data name="txtNoiSinh.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="txtNoiSinh.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>1, 1</value>
+  </data>
+  <data name="txtNoiSinh.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="txtNoiSinh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 40</value>
+  </data>
+  <data name="txtNoiSinh.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;txtNoiSinh.Name" xml:space="preserve">
+    <value>txtNoiSinh</value>
+  </data>
+  <data name="&gt;&gt;txtNoiSinh.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuTextBox, Bunifu.UI.WinForms.BunifuTextBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;txtNoiSinh.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtNoiSinh.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="txtSDT.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAMgAAAApCAYAAABwQGa5AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAJtSURBVHhe7d2/ihpRFIDxKS1TptxyHyFlypQpt9wmb5Ei
+        DxAI7GsE0i2kWnUcHQtxEdHGf1iITERmxRhRkbvn6AkiKzeYbp3vB7eQGa3ux8xVvBMA+E/5fD4n46Zc
+        Lt/LeCyVSpNCoeAYjNc6dA7rXJbxIHP7VsYbm+7nkTd+kA+bNpvNWZIkLk1Tt1wuHfCa6RzWuTyZTFy7
+        3Z5HUZSGYfjJpv2/aVFS1496vZ6uViv7WOAybTYb12q1nmTOxzL331oGp1kcw9FotLb3A5kwnU5dHMdD
+        aeDKcnhJrxzEgazSWy9p4NFyOKZrDr2tsnOBTOp0Or9l7f3FstiTOHK6IGfNgazbbreuWq1OpYlry2MX
+        yK2u6O0cINMGg8EmiqJvlsdu7fGgX3sBcG4+nzsJpG95BIHcXo0Wi4UdBrJNb7OKxeLG8ggCefFHvw8G
+        sKe/ulseQaAvABwQCOBBIIAHgQAeBAJ4EAjgQSCAB4EAHgQCeBAI4EEggAeBAB4EAngQCOBBIIAHgQAe
+        BAJ4HAWify/UvxkC2DsKRDf0Zd9d4OAoEN2XVLdeBOCcbmCiG5lYHrtbrM/dbpdLCCDG47Fu+/Pd8tht
+        HHdVqVRS1iGAc41G40ma+Gh57EkxX3u9HrsrItPk6rGWi8VPy+JA9+eVA83ZbGanAtmie1PLevyXtHD6
+        qVNy4DqO4wm7LCJrNI5araabVr+3HE6TE95JRcN+v8+iHZmQJMnarhz+OP6SE3PyhjspKtUVPY9FwKXR
+        rXb12Zv6DE5ZWhRlzp//ME8tSr/uCsNwpj+cMBiXMnQ/arkI3Mscv7HpDuA8QfAMbJGZio8i47UAAAAA
+        SUVORK5CYII=
+</value>
+  </data>
+  <data name="txtSDT.Location" type="System.Drawing.Point, System.Drawing">
+    <value>858, 44</value>
+  </data>
+  <data name="txtSDT.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="txtSDT.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>1, 1</value>
+  </data>
+  <data name="txtSDT.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="txtSDT.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 41</value>
+  </data>
+  <data name="txtSDT.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;txtSDT.Name" xml:space="preserve">
+    <value>txtSDT</value>
+  </data>
+  <data name="&gt;&gt;txtSDT.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuTextBox, Bunifu.UI.WinForms.BunifuTextBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;txtSDT.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtSDT.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="cbbDSLop.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbbDSLop.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9pt</value>
+  </data>
+  <data name="cbbDSLop.ItemHeight" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="cbbDSLop.Location" type="System.Drawing.Point, System.Drawing">
+    <value>490, 44</value>
+  </data>
+  <data name="cbbDSLop.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="cbbDSLop.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 32</value>
+  </data>
+  <data name="cbbDSLop.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="cbbDSLop.Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;cbbDSLop.Name" xml:space="preserve">
+    <value>cbbDSLop</value>
+  </data>
+  <data name="&gt;&gt;cbbDSLop.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuDropdown, Bunifu.UI.WinForms.BunifuDropdown, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;cbbDSLop.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;cbbDSLop.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="dtpNgaySinh.DropDownAlign" type="System.Windows.Forms.LeftRightAlignment, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="dtpNgaySinh.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9pt</value>
+  </data>
+  <data name="dtpNgaySinh.Icon" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAF/SURBVFhH7ZZdTsMwEISDuEEbIXGBPvLIMwfgMNyAnADR
+        5hYcCIlUPUvIWDtms7ZTJ06QkPiklbLjWe+2dn8qS9M0PULS2ZTW/w/w+wO8310edFHsOTdS9eiBPApN
+        iNPu6zH2nBtT9dIuRJsQKFzSnJGql3Yh1rhVSLuQmHmLkHYhMfMWIe1CrhoK+XsDMC/VSUr3WAPzUp2k
+        dI81MC/Vs7GFerMSPZvFhQna+nI47s/DluPBoGFNbD/QIOli+qq/Odbdi24aC3jglbJwAG3O0QE2tOtt
+        3T2/1Z/3CDzbdT8EBZcMaFOODvQrb/fnJ5EDsEYfapxIwSUDzHN1nCs13dz6iB7C3QlrZJ6r6wsnkiOm
+        Ea6d6u510pgD63HOIjmm9tV3whs/qv5W1mfBelw2kRzUJR0Br1/nw9yQva4OYANrowH0n9I54boMME8d
+        gQ2sjY6glNQlnIJ+dwlLSX0MUwQfwzUo+iJag6Kv4rXAhvqdSAU8qzfX4Fzzf46r6huINmMzAcfiYwAA
+        AABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="dtpNgaySinh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>858, 120</value>
+  </data>
+  <data name="dtpNgaySinh.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="dtpNgaySinh.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>4, 32</value>
+  </data>
+  <data name="dtpNgaySinh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 32</value>
+  </data>
+  <data name="dtpNgaySinh.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;dtpNgaySinh.Name" xml:space="preserve">
+    <value>dtpNgaySinh</value>
+  </data>
+  <data name="&gt;&gt;dtpNgaySinh.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuDatePicker, Bunifu.UI.WinForms.BunifuDatePicker, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;dtpNgaySinh.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;dtpNgaySinh.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="label2.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 9pt</value>
+  </data>
+  <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>734, 199</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 20</value>
+  </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>38</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Nơi Sinh</value>
+  </data>
+  <data name="&gt;&gt;label2.Name" xml:space="preserve">
+    <value>label2</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="label5.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label5.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 9pt</value>
+  </data>
+  <data name="label5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 56</value>
+  </data>
+  <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 20</value>
+  </data>
+  <data name="label5.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Mã Sinh Viên</value>
+  </data>
+  <data name="&gt;&gt;label5.Name" xml:space="preserve">
+    <value>label5</value>
+  </data>
+  <data name="&gt;&gt;label5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="label6.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label6.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 9pt</value>
+  </data>
+  <data name="label6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>349, 56</value>
+  </data>
+  <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 20</value>
+  </data>
+  <data name="label6.TabIndex" type="System.Int32, mscorlib">
+    <value>42</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Danh Sách Lớp</value>
+  </data>
+  <data name="&gt;&gt;label6.Name" xml:space="preserve">
+    <value>label6</value>
+  </data>
+  <data name="&gt;&gt;label6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label6.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="label8.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label8.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 9pt</value>
+  </data>
+  <data name="label8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>734, 120</value>
+  </data>
+  <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>80, 20</value>
+  </data>
+  <data name="label8.TabIndex" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>Ngày Sinh</value>
+  </data>
+  <data name="&gt;&gt;label8.Name" xml:space="preserve">
+    <value>label8</value>
+  </data>
+  <data name="&gt;&gt;label8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label8.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="label9.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label9.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 9pt</value>
+  </data>
+  <data name="label9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>734, 56</value>
+  </data>
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 20</value>
+  </data>
+  <data name="label9.TabIndex" type="System.Int32, mscorlib">
+    <value>44</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Số Điện Thoại</value>
+  </data>
+  <data name="&gt;&gt;label9.Name" xml:space="preserve">
+    <value>label9</value>
+  </data>
+  <data name="&gt;&gt;label9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label9.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="label10.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label10.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 9pt</value>
+  </data>
+  <data name="label10.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label10.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 127</value>
+  </data>
+  <data name="label10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>64, 20</value>
+  </data>
+  <data name="label10.TabIndex" type="System.Int32, mscorlib">
+    <value>46</value>
+  </data>
+  <data name="label10.Text" xml:space="preserve">
+    <value>Mã Lớp</value>
+  </data>
+  <data name="&gt;&gt;label10.Name" xml:space="preserve">
+    <value>label10</value>
+  </data>
+  <data name="&gt;&gt;label10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label10.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label10.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="label11.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label11.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 9pt</value>
+  </data>
+  <data name="label11.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label11.Location" type="System.Drawing.Point, System.Drawing">
+    <value>349, 123</value>
+  </data>
+  <data name="label11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 20</value>
+  </data>
+  <data name="label11.TabIndex" type="System.Int32, mscorlib">
+    <value>45</value>
+  </data>
+  <data name="label11.Text" xml:space="preserve">
+    <value>Họ Tên</value>
+  </data>
+  <data name="&gt;&gt;label11.Name" xml:space="preserve">
+    <value>label11</value>
+  </data>
+  <data name="&gt;&gt;label11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label11.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label11.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <metadata name="bunifuElipse1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>8, 16</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1084, 742</value>
+  </data>
+  <data name="cbbMaLop.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="cbbMaLop.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 9pt</value>
+  </data>
+  <data name="cbbMaLop.ItemHeight" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="cbbMaLop.Location" type="System.Drawing.Point, System.Drawing">
+    <value>122, 120</value>
+  </data>
+  <data name="cbbMaLop.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="cbbMaLop.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 32</value>
+  </data>
+  <data name="cbbMaLop.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="cbbMaLop.Text" type="System.Resources.ResXNullRef, System.Windows.Forms">
+    <value />
+  </data>
+  <data name="&gt;&gt;cbbMaLop.Name" xml:space="preserve">
+    <value>cbbMaLop</value>
+  </data>
+  <data name="&gt;&gt;cbbMaLop.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuDropdown, Bunifu.UI.WinForms.BunifuDropdown, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;cbbMaLop.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;cbbMaLop.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="label12.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label12.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 9pt</value>
+  </data>
+  <data name="label12.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label12.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 271</value>
+  </data>
+  <data name="label12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>46, 20</value>
+  </data>
+  <data name="label12.TabIndex" type="System.Int32, mscorlib">
+    <value>82</value>
+  </data>
+  <data name="label12.Text" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="&gt;&gt;label12.Name" xml:space="preserve">
+    <value>label12</value>
+  </data>
+  <data name="&gt;&gt;label12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label12.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label12.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="txtEmail.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAASsAAAApCAYAAABtGw8LAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAKXSURBVHhe7d2/attQFIBxjR4zdsyYR+jYsWPHjFn6Fh36
+        AIVCX6PQLdAptizb8mAcjLAX/8ODMa4QinEdYwujnOOcUkxDSmkS68L3gzMYSR4/pGvh6wGA88rlcknm
+        vF6vX8pcB0EQVyqVnGEY5n9He6JdkbmSzlzInFh6/o1c+Fa+LImiaDGfz/M0TfP1ep0DwFPQnmhX4jjO
+        e73eslarpdVq9b0l6O+0blK6b+12O91sNva1APC8sizLu93ujfQnlA69siQ9zEI1mU6nW7seAF5UkiR5
+        GIYT6dGppelPekdFqAAcmz4eSo+uLU2HdI1KH/3sXAA4qn6//zMIgo+WqHsSqpIuprNGBaAodrtd3mw2
+        E+nTmaVqH6sLXY23cwCgEMbjcVar1T5bqvZrVVf68yEAFMlyucwlViNLlefJI+B0tVrZYQAoBn0U9H0/
+        s1R5nny41XccAKBo9G13S5Xn6QcAKCJiBcAJxAqAE4gVACcQKwBOIFYAnECsADiBWAFwArEC4ARiBcAJ
+        xAqAE4gVACcQKwBOIFYAnECsADiBWAFwArEC4ISDWOnfhurfhwJA0RzEKgiCWPedB4CiOYiV7i2vWzYD
+        QJHoRja6oY2lav8Y+GEwGHBrBaBQZrOZbsX11VK13+T0tNFopKxbASiSTqdzI316Z6m6J/X6NBwO2ZUZ
+        QCHIXdVWbqK+W6J+k3qV5EC0WCzsVAA4js1mk9fr9R/SpRNL1CE5cBaGYczuzACORUPVarUS6dEbS9PD
+        5ITXUrTJaDRiwR3Ai5rP51u7o3o8VL/IiSW54IvULdXVeC0dADyHLMs0UnkURYtGo+FLfx5+9HuM1k1/
+        NqxWqwt9MYthGOapx/f9W7k5upTenFt6AMBVnncHTHgijFsvRdoAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="txtEmail.Location" type="System.Drawing.Point, System.Drawing">
+    <value>122, 254</value>
+  </data>
+  <data name="txtEmail.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="txtEmail.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>1, 1</value>
+  </data>
+  <data name="txtEmail.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="txtEmail.Size" type="System.Drawing.Size, System.Drawing">
+    <value>299, 41</value>
+  </data>
+  <data name="txtEmail.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.Name" xml:space="preserve">
+    <value>txtEmail</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuTextBox, Bunifu.UI.WinForms.BunifuTextBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtEmail.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="txtTimKiem.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAVAAAAApCAYAAABjsnFkAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAKiSURBVHhe7d2/btpQFIBxj4wZO2bMI3Ts2LFjxix9iw59
+        gEqV+hqVukXqFMf4XwaUCFlhCRAxoIgiy0GUIMeK3HPCiSqSAO1Vu4TvJ50B+cL4yfYF7AEA/gPf9xsy
+        +3EcH8qchWE4Pj4+rhmGYV7iaOO0dTJH0r4DmR3L4d+RN76VD8uzLJuMRqO6KIp6Pp/XAPBSaeO0dePx
+        uO50OtMoiopms/nesriZFlfq++309LQoy9I+FgC2T1VV9fn5+bU0MZU2vrJMPs/iORgOh7f2fgDYenme
+        12maDqSRu5bLp/TMk3gCwFN6aS+NPLNcLtN7nnrZbmsBAI9cXFz8DMPwo2VzQeLZ0A0j7nkCwGp3d3f1
+        yclJLs3cs3zeB/RAd5xsDQBghcvLyyqKos+Wz/t7n0e6bQ8AWG86ndYS0L7l0/Pk8n04m83sMABgFb2M
+        D4Kgsnx6nry40e87AQA2018tWT49T18AAP4MAQUARwQUABwRUABwREABwBEBBQBHBBQAHBFQAHBEQAHA
+        EQEFAEcEFAAcEVAAcERAAcARAQUARwQUABwRUABwREABwNFSQPXv6fVv6gEAmy0FNAzD8Xw+t0MAgHWW
+        AhrHcZrnuR0CAKyiD+DUB3FaPu8v4T90u11OQQFgg6urK32s8VfLp+f5vr+bJEnBfVAAWK/dbl9LM99Z
+        PhekqJ96vd7U1gAAHpGzz1s52fxu2fxNitqQA9lkMrGlAIAHZVnWcRz/kFbuWDaXyYG9NE3HepMUALCg
+        8Wy1Wrk08o3l8nmy4LVUdtDv99lUArD1RqPRrZ15ro/nA1nYkDd8keIWuuOk9QWAbVFVlYazzrJskiRJ
+        IE18/rJ9HS2ubtc3m82JfnGUYRhmGyYIghs5iTyUBu5bDgEA/47n/QKn4GKoKvWwhgAAAABJRU5ErkJg
+        gg==
+</value>
+  </data>
+  <data name="txtTimKiem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>471, 254</value>
+  </data>
+  <data name="txtTimKiem.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>1, 1</value>
+  </data>
+  <data name="txtTimKiem.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="txtTimKiem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>336, 41</value>
+  </data>
+  <data name="txtTimKiem.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;txtTimKiem.Name" xml:space="preserve">
+    <value>txtTimKiem</value>
+  </data>
+  <data name="&gt;&gt;txtTimKiem.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuTextBox, Bunifu.UI.WinForms.BunifuTextBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;txtTimKiem.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtTimKiem.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnTimKiem.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAMgAAAAlCAYAAAAHgqbCAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAHxSURBVHhe7d2xSgMxHMfxjI6Ojo4+gvaunJO5uujopoto
+        E8EXcPABBMHXENwEJ8HJ0cFd6OCiFBWlQjvo/99G9PQadLT5/uHToyS9KT9yCTRnxlVRrE/lpV/LrD+V
+        61Vu/b1c34B/bzSWr7LSnzet2yhWdqfDsP9d5UuulBt0c+ueKjcGJorT67N4kDG/GYb/+NIkSShOJFkP
+        1RsBE+8xb7nLYtnNhDhUaxiO0ndE/8uPgLRY3yns1myIxWfpzCEdCAcg65MQi1HpmoPHKmAks/4la/n9
+        YTjCblX3eycgcd2FpZ05o9tc8kVX8nWdgCQ1SjeQZceh0b3gsN0FoMLdGPm4rW8E0iaTx0AD0qtrBODf
+        JCD1DQAICBBFQIAIAgJEEBAggoAAEQQEiCAgQAQBASIICBBBQIAIAgJEEBAggoAAEQQEiNB/FA7qGgDo
+        DMKRosBYRk+Tq2sA4G5NZt2ePGa91ncA0tW0/tjoMYuSFA6NA76QSeMxb7VXh4fHyTrkoGE5GwtQEo5+
+        VrqzYTi0Rqcruuu6zkBqZNlx9+OdIXrMojSyo4XEuW5m/WKIRbWycnteOnUats2iHUmRR6q+zhxjw/FR
+        +rjVtDtH8gMW7kiDdU+y7rj406vYNEm6zSWp4jVsmFCuF97BuRaG/bcy5h2kfCGXJ2rBZQAAAABJRU5E
+        rkJggg==
+</value>
+  </data>
+  <data name="btnTimKiem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 10pt, style=Bold</value>
+  </data>
+  <data name="btnTimKiem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>858, 258</value>
+  </data>
+  <data name="btnTimKiem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 37</value>
+  </data>
+  <data name="btnTimKiem.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;btnTimKiem.Name" xml:space="preserve">
+    <value>btnTimKiem</value>
+  </data>
+  <data name="&gt;&gt;btnTimKiem.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuButton.BunifuButton, Bunifu.UI.WinForms.BunifuButton, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;btnTimKiem.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnTimKiem.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnXoa.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAL4AAAAlCAYAAAD81VMdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAH4SURBVHhe7d2xSyNBFMfxKS2vtLT0TzizG/YqZ2NzV9pp
+        I2dmBP8BC/8AQfDfEOwEK8HqyhTXH6SwUYKGOzxIirv3kpEzcQNeZ+Z9H3yyhJls9ZthdiCzblFV1c5K
+        WcftwsdLufZKH+/l+gd4t6YZ7RV1vG77sFt9PvyQ4vy2KjdDLTcYlD4MZ24MLIWg15/iQbK8l2K9uHSE
+        SNgvZMQ8zN4IWFqPZSd8q7bCaor5bE1CX8e+GL34EZAHH/uV/7qW4v6vdKaXDoQeOeuluE9L1/Qsb5C7
+        wsdfRSceT0Kfdm8G852ATA02Ng/WnW77yBd9Am7qBGSlVYexLOtPne55pu0fwIjww8nHbXMjkCeZ7Mca
+        /KemRiBnEvzmBiBnBB8mEXyYRPBhEsGHSQQfJhF8mETwYRLBh0kEHyYRfJhE8GESwYdJBB8mEXyYpP/A
+        Gjc1ADlzHA0Ii5yeMtXUAOQr3LrChyNZ7vxu7gDkp+3judNj1WQEcJgUTJBJ/rHsdL9MDpWSdf5Jy3O2
+        DvImoR8VdbiahF5reppa+N7UGciFLOvvXp2Zr8eqSSM7PMhUGBQ+fkpxn62i3v8onfot3+VhF1mQpc1I
+        Z/qFoX8uXfa0/cGZ/IAHXiw3H4ayrr/5r1cC6QjRbR8ZLbwOCEsmPKV3t22nOM+Vc38BHXhXbjsShn0A
+        AAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="btnXoa.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 10pt, style=Bold</value>
+  </data>
+  <data name="btnXoa.Location" type="System.Drawing.Point, System.Drawing">
+    <value>512, 342</value>
+  </data>
+  <data name="btnXoa.Size" type="System.Drawing.Size, System.Drawing">
+    <value>190, 37</value>
+  </data>
+  <data name="btnXoa.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;btnXoa.Name" xml:space="preserve">
+    <value>btnXoa</value>
+  </data>
+  <data name="&gt;&gt;btnXoa.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuButton.BunifuButton, Bunifu.UI.WinForms.BunifuButton, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;btnXoa.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnXoa.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnSua.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAL4AAAAlCAYAAAD81VMdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAH4SURBVHhe7d2xSyNBFMfxKS2vtLT0TzizG/YqZ2NzV9pp
+        I2dmBP8BC/8AQfDfEOwEK8HqyhTXH6SwUYKGOzxIirv3kpEzcQNeZ+Z9H3yyhJls9ZthdiCzblFV1c5K
+        WcftwsdLufZKH+/l+gd4t6YZ7RV1vG77sFt9PvyQ4vy2KjdDLTcYlD4MZ24MLIWg15/iQbK8l2K9uHSE
+        SNgvZMQ8zN4IWFqPZSd8q7bCaor5bE1CX8e+GL34EZAHH/uV/7qW4v6vdKaXDoQeOeuluE9L1/Qsb5C7
+        wsdfRSceT0Kfdm8G852ATA02Ng/WnW77yBd9Am7qBGSlVYexLOtPne55pu0fwIjww8nHbXMjkCeZ7Mca
+        /KemRiBnEvzmBiBnBB8mEXyYRPBhEsGHSQQfJhF8mETwYRLBh0kEHyYRfJhE8GESwYdJBB8mEXyYpP/A
+        Gjc1ADlzHA0Ii5yeMtXUAOQr3LrChyNZ7vxu7gDkp+3judNj1WQEcJgUTJBJ/rHsdL9MDpWSdf5Jy3O2
+        DvImoR8VdbiahF5reppa+N7UGciFLOvvXp2Zr8eqSSM7PMhUGBQ+fkpxn62i3v8onfot3+VhF1mQpc1I
+        Z/qFoX8uXfa0/cGZ/IAHXiw3H4ayrr/5r1cC6QjRbR8ZLbwOCEsmPKV3t22nOM+Vc38BHXhXbjsShn0A
+        AAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="btnSua.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 10pt, style=Bold</value>
+  </data>
+  <data name="btnSua.Location" type="System.Drawing.Point, System.Drawing">
+    <value>277, 342</value>
+  </data>
+  <data name="btnSua.Size" type="System.Drawing.Size, System.Drawing">
+    <value>190, 37</value>
+  </data>
+  <data name="btnSua.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;btnSua.Name" xml:space="preserve">
+    <value>btnSua</value>
+  </data>
+  <data name="&gt;&gt;btnSua.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuButton.BunifuButton, Bunifu.UI.WinForms.BunifuButton, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;btnSua.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnSua.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnThem.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAL4AAAAlCAYAAAD81VMdAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAH4SURBVHhe7d2xSyNBFMfxKS2vtLT0TzizG/YqZ2NzV9pp
+        I2dmBP8BC/8AQfDfEOwEK8HqyhTXH6SwUYKGOzxIirv3kpEzcQNeZ+Z9H3yyhJls9ZthdiCzblFV1c5K
+        WcftwsdLufZKH+/l+gd4t6YZ7RV1vG77sFt9PvyQ4vy2KjdDLTcYlD4MZ24MLIWg15/iQbK8l2K9uHSE
+        SNgvZMQ8zN4IWFqPZSd8q7bCaor5bE1CX8e+GL34EZAHH/uV/7qW4v6vdKaXDoQeOeuluE9L1/Qsb5C7
+        wsdfRSceT0Kfdm8G852ATA02Ng/WnW77yBd9Am7qBGSlVYexLOtPne55pu0fwIjww8nHbXMjkCeZ7Mca
+        /KemRiBnEvzmBiBnBB8mEXyYRPBhEsGHSQQfJhF8mETwYRLBh0kEHyYRfJhE8GESwYdJBB8mEXyYpP/A
+        Gjc1ADlzHA0Ii5yeMtXUAOQr3LrChyNZ7vxu7gDkp+3judNj1WQEcJgUTJBJ/rHsdL9MDpWSdf5Jy3O2
+        DvImoR8VdbiahF5reppa+N7UGciFLOvvXp2Zr8eqSSM7PMhUGBQ+fkpxn62i3v8onfot3+VhF1mQpc1I
+        Z/qFoX8uXfa0/cGZ/IAHXiw3H4ayrr/5r1cC6QjRbR8ZLbwOCEsmPKV3t22nOM+Vc38BHXhXbjsShn0A
+        AAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="btnThem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 10pt, style=Bold</value>
+  </data>
+  <data name="btnThem.Location" type="System.Drawing.Point, System.Drawing">
+    <value>46, 342</value>
+  </data>
+  <data name="btnThem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>190, 37</value>
+  </data>
+  <data name="btnThem.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;btnThem.Name" xml:space="preserve">
+    <value>btnThem</value>
+  </data>
+  <data name="&gt;&gt;btnThem.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuButton.BunifuButton, Bunifu.UI.WinForms.BunifuButton, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;btnThem.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnThem.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="label14.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label14.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 9pt</value>
+  </data>
+  <data name="label14.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label14.Location" type="System.Drawing.Point, System.Drawing">
+    <value>5, 199</value>
+  </data>
+  <data name="label14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 20</value>
+  </data>
+  <data name="label14.TabIndex" type="System.Int32, mscorlib">
+    <value>43</value>
+  </data>
+  <data name="label14.Text" xml:space="preserve">
+    <value>Giới Tính</value>
+  </data>
+  <data name="&gt;&gt;label14.Name" xml:space="preserve">
+    <value>label14</value>
+  </data>
+  <data name="&gt;&gt;label14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label14.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label14.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="label13.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label13.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 9pt</value>
+  </data>
+  <data name="label13.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label13.Location" type="System.Drawing.Point, System.Drawing">
+    <value>349, 200</value>
+  </data>
+  <data name="label13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 20</value>
+  </data>
+  <data name="label13.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="label13.Text" xml:space="preserve">
+    <value>Địa Chỉ</value>
+  </data>
+  <data name="&gt;&gt;label13.Name" xml:space="preserve">
+    <value>label13</value>
+  </data>
+  <data name="&gt;&gt;label13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label13.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label13.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="txtGioiTinh.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAMgAAAApCAYAAABwQGa5AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAJtSURBVHhe7d2/ihpRFIDxKS1TptxyHyFlypQpt9wmb5Ei
+        DxAI7GsE0i2kWnUcHQtxEdHGf1iITERmxRhRkbvn6AkiKzeYbp3vB7eQGa3ux8xVvBMA+E/5fD4n46Zc
+        Lt/LeCyVSpNCoeAYjNc6dA7rXJbxIHP7VsYbm+7nkTd+kA+bNpvNWZIkLk1Tt1wuHfCa6RzWuTyZTFy7
+        3Z5HUZSGYfjJpv2/aVFS1496vZ6uViv7WOAybTYb12q1nmTOxzL331oGp1kcw9FotLb3A5kwnU5dHMdD
+        aeDKcnhJrxzEgazSWy9p4NFyOKZrDr2tsnOBTOp0Or9l7f3FstiTOHK6IGfNgazbbreuWq1OpYlry2MX
+        yK2u6O0cINMGg8EmiqJvlsdu7fGgX3sBcG4+nzsJpG95BIHcXo0Wi4UdBrJNb7OKxeLG8ggCefFHvw8G
+        sKe/ulseQaAvABwQCOBBIIAHgQAeBAJ4EAjgQSCAB4EAHgQCeBAI4EEggAeBAB4EAngQCOBBIIAHgQAe
+        BAJ4HAWify/UvxkC2DsKRDf0Zd9d4OAoEN2XVLdeBOCcbmCiG5lYHrtbrM/dbpdLCCDG47Fu+/Pd8tht
+        HHdVqVRS1iGAc41G40ma+Gh57EkxX3u9HrsrItPk6rGWi8VPy+JA9+eVA83ZbGanAtmie1PLevyXtHD6
+        qVNy4DqO4wm7LCJrNI5araabVr+3HE6TE95JRcN+v8+iHZmQJMnarhz+OP6SE3PyhjspKtUVPY9FwKXR
+        rXb12Zv6DE5ZWhRlzp//ME8tSr/uCsNwpj+cMBiXMnQ/arkI3Mscv7HpDuA8QfAMbJGZio8i47UAAAAA
+        SUVORK5CYII=
+</value>
+  </data>
+  <data name="txtGioiTinh.Location" type="System.Drawing.Point, System.Drawing">
+    <value>122, 189</value>
+  </data>
+  <data name="txtGioiTinh.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 0, 0</value>
+  </data>
+  <data name="txtGioiTinh.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>1, 1</value>
+  </data>
+  <data name="txtGioiTinh.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>3, 3, 3, 3</value>
+  </data>
+  <data name="txtGioiTinh.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 41</value>
+  </data>
+  <data name="txtGioiTinh.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;txtGioiTinh.Name" xml:space="preserve">
+    <value>txtGioiTinh</value>
+  </data>
+  <data name="&gt;&gt;txtGioiTinh.Type" xml:space="preserve">
+    <value>Bunifu.UI.WinForms.BunifuTextBox, Bunifu.UI.WinForms.BunifuTextBox, Version=4.1.1.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;txtGioiTinh.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txtGioiTinh.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>GUI_QuanLySinhVien</value>
+  </data>
+  <data name="&gt;&gt;bunifuElipse1.Name" xml:space="preserve">
+    <value>bunifuElipse1</value>
+  </data>
+  <data name="&gt;&gt;bunifuElipse1.Type" xml:space="preserve">
+    <value>Bunifu.Framework.UI.BunifuElipse, Bunifu.UI.WinForms.1.5.3, Version=1.5.3.0, Culture=neutral, PublicKeyToken=e8e24ccd28363fe9</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>GUI_QuanLySinhVien</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

@@ -1,0 +1,58 @@
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Quản Lý Điểm SPKTHY.exe.config
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Quản Lý Điểm SPKTHY.exe
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Quản Lý Điểm SPKTHY.pdb
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\BUS.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\DevComponents.DotNetBar.Layout.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\DevComponents.TreeGX.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\DTO.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\BUS.pdb
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\DTO.pdb
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_ChucNang.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_DangNhap.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.Properties.Resources.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản Lý Điểm SPKTHY.exe.licenses
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\GUI.csproj.CopyComplete
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản Lý Điểm SPKTHY.exe
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản Lý Điểm SPKTHY.pdb
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_QuanLySinhVien.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\vi\Quản Lý Điểm SPKTHY.resources.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_QuanLySinhVien.vi.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\vi\Quản Lý Điểm SPKTHY.resources.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\DAL.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\DAL.pdb
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_QuanLyKhoa.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_QuanLyLop.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_QuanLyGiangVien.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_QuanLyHocPhan.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_QuanLyNhapDiem.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_ChiTietBangDiem.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_HocKy.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_QuanLyTaiKhoan.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_QuanLyPhanTheoLopcs.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_ChucNangSV.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_ChucNangGV.resources
+D:\Documents\2022-2023\ĐA1\Quản Lý Điểm SPKTHY\Quản Lý Điểm SPKTHY\obj\Debug\Quản_Lý_Điểm_SPKTHY.GUI_BaoCao.resources
